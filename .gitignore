@@ -1,0 +1,13 @@
+# 忽略vscode相关
+*.code-workspace
+./.vscode/
+
+# 忽略脚本类文件
+*.py
+
+# 忽略所有ppt(类)文件
+*.ppt
+*.pptx
+
+# 手动忽略大文件
+Las_Meninas,_by_Diego_Velázquez,_from_Prado_in_Google_Earth.jpg
